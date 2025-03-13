@@ -76,5 +76,5 @@ Feel free to contribute or customize the repository for your **motor control** a
 ---
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/8339b68f-9b6d-4292-aef5-2c9ccef03620)" width="300" />
+  <img src="(https://github.com/user-attachments/assets/8339b68f-9b6d-4292-aef5-2c9ccef03620)" width="300" />
 </p>
