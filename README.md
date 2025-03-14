@@ -32,6 +32,7 @@ Here’s a **visual demonstration** of an electric motor in action, showing how 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Electric_motor.gif" width="500" />
+  <img src="" width="500" />
 </p>
 
 ---
