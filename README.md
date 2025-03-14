@@ -55,9 +55,9 @@ Here’s a **visual demonstration** of an electric motor in action, showing how 
 
 ### **⚙️ Requirements**
 
-- **Microcontroller**: ESP32 or other compatible devices.
+- **Microcontroller**: ESP32 or other compatible devices like arduino uno.
 - **Motor Driver**: L298N (or similar).
-- **Motor**: 6 VDC Brushed Motor.
+- **Motor**: JGA25‑371 Encoder Reducer Motor Compatible with Adjustable Speed.
 - **Power Supply**: Suitable for the motor and control board.
 - **Software**: ROS 2 (Humble), Micro-ROS, and related dependencies.
 
