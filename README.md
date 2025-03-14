@@ -31,9 +31,13 @@ This workspace is optimized for control tasks like:
 Here’s a **visual demonstration** of an electric motor in action, showing how the motor responds to control signals:
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Electric_motor.gif" width="500" />
-  <img src="" width="500" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Electric_motor.gif" width="350" />
 </p>
+<p align="center">
+  <img src="https://github.com/AldonDC/microros_ws_new/raw/main/VIDEO1%20MOTOR.gif" width="450" />
+</p>
+
+
 
 ---
 
