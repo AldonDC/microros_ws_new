@@ -1,62 +1,9 @@
-# Archivos generados por Catkin y Colcon
 build/
 install/
 log/
-devel/
-build_isolated/
-devel_isolated/
-
-# Archivos de Python innecesarios
 *.pyc
-*.pyo
-__pycache__/
-
-# Archivos de ROS 2
+.DS_Store
 colcon/
 ros2_ws/
 src/build/
 src/micro_ros_agent/
-
-# Archivos generados por ROS
-msg/*Action.msg
-msg/*ActionFeedback.msg
-msg/*ActionGoal.msg
-msg/*ActionResult.msg
-msg/*Feedback.msg
-msg/*Goal.msg
-msg/*Result.msg
-msg/_*.py
-srv/_*.py
-
-# Archivos de configuración generados automáticamente
-*.cfgc
-/cfg/cpp/
-/cfg/*.py
-
-# Archivos de Eclipse y Qt Creator
-.project
-.cproject
-CMakeLists.txt.user
-qtcreator-*
-*.user
-
-# Archivos de documentación
-*.dox
-*.wikidoc
-
-# Archivos innecesarios de planificación
-/planning/cfg
-/planning/docs
-/planning/src
-
-# Archivos de caché y temporales
-*.pcd
-*.pyc
-.DS_Store
-*~
-
-# Emacs
-.#*
-
-# Archivo especial de Catkin
-CATKIN_IGNORE
